@@ -136,7 +136,7 @@ A API estará disponível em: `https://localhost:5001` ou `http://localhost:5000
 
 ### 📗 Documentação **Swagger**
 A API conta com documentação interativa via **Swagger UI**, facilitando testes e visualização dos endpoints.
-
+<img src="img/Swagger-img.png">
 ### 🔗 Como Acessar a Documentação
 Após iniciar a aplicação, acesse:
 
