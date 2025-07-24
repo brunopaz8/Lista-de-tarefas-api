@@ -1,6 +1,6 @@
-# Desafio - Lista de Tarefas API
+# 📚 Desafio - Lista de Tarefas API 
 
-Esta é uma API desenvolvida em .NET que permite o gerenciamento de uma lista de tarefas. Ela foi criada como parte de um desafio prático para reforçar conhecimentos em ASP.NET Core, Entity Framework Core e arquitetura de APIs modernas.
+Esta é uma API desenvolvida em **.NET** que permite o gerenciamento de uma lista de tarefas. Ela foi criada como parte de um desafio prático para reforçar conhecimentos em **ASP.NET Core**, Entity Framework Core e arquitetura de APIs modernas.
 
 ---
 
@@ -28,11 +28,11 @@ Esta é uma API desenvolvida em .NET que permite o gerenciamento de uma lista de
 
 ## 🔧 Funcionalidades
 
-* Criar uma nova tarefa
-* Buscar todas as tarefas
-* Buscar uma tarefa por ID
-* Atualizar uma tarefa existente
-* Deletar uma tarefa
+* **Criar** uma nova tarefa
+* **Buscar** todas as tarefas
+* **Buscar** uma tarefa por ID
+* **Atualizar** uma tarefa existente
+* **Deletar** uma tarefa
 
 ---
 
@@ -135,12 +135,12 @@ A API estará disponível em: `https://localhost:5001` ou `http://localhost:5000
 ---
 
 ### 📗 Documentação **Swagger**
-A API conta com documentação interativa via **Swagger UI**, facilitando testes e visualização dos endpoints.
-<img src="img/Swagger-img.png">
-### 🔗 Como Acessar a Documentação
-Após iniciar a aplicação, acesse:
+A API conta com documentação interativa via **Swagger UI**, facilitando testes e visualização dos endpoints. Após iniciar a aplicação, acesse:
 
-🟣 **Swagger UI:** [http://localhost:5226/swagger/index.html](http://localhost:5226/swagger/index.html)
+🟢 **Swagger UI:** [http://localhost:5226/swagger/index.html](http://localhost:5226/swagger/index.html)
+
+📌 **Exemplo da interface Swagger UI:**
+<img src="img/Swagger-img.png">
 
 ---
 
