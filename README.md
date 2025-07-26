@@ -61,32 +61,32 @@ erDiagram
 ### 🔵 Obter Por Id
 
 ```
-GET /api/tarefa/FindById
+GET /api/Tarefa/FindById
 ```
 ### 🔵 Obter Todas as Tarefas (GET)
 
 ```
-GET /api/tarefa.FindAll
+GET /api/Tarefa.FindAll
 ```
 ### 🔵 Obter Por Titulo
 
 ```
-GET /api/tarefa/FindByTitle
+GET /api/Tarefa/FindByTitle
 ```
 ### 🔵 Obter Por Data
 
 ```
-GET /api/tarefa/FindByDate
+GET /api/Tarefa/FindByDate
 ```
 ### 🔵 Obter Por Status
 
 ```
-GET /api/tarefa/FindByStatus
+GET /api/Tarefa/FindByStatus
 ```
 ### 🟢 Criar Tarefa (POST)
 
 ```json
-POST /api/tarefa
+POST /api/Tarefa
 {
   "titulo": "Estudar .NET",
   "descricao": "Aprofundar conhecimento em ASP.NET Core",
@@ -94,10 +94,10 @@ POST /api/tarefa
   "status": true
 }
 ```
-### 🟠 Atualizar Tarefa (Put)
+### 🟠 Atualizar Tarefa (PUT)
 
 ```json
-PuT /api/tarefa{id}
+PuT /api/Tarefa{id}
 {
   "titulo": "Estudar .NET",
   "descricao": "Aprofundar conhecimento em ASP.NET Core",
@@ -105,7 +105,11 @@ PuT /api/tarefa{id}
   "status": true
 }
 ```
+### 🔴 Deletar Tarefa (DELETE)
 
+```
+GET /api/Tarefa/{id}
+```
 ---
 
 ## 🚀 Como Executar o Projeto
