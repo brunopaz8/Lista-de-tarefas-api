@@ -6,14 +6,14 @@ Esta é uma API desenvolvida em **.NET** que permite o gerenciamento de uma list
 
 ## 📂 Sumário
 
-- ⚒️ Tecnologias utilizada
-- 🔧 Funcionalidades
-- 🗄️ Database Modeling
-- 🔍 Fazendo Requisições
-- 🚀 Como Executar o Projeto
-    - 📗 Documentação Swagger
-    - 🚫 Observações
-  
+* [⚒️ Tecnologias utilizada](#️-tecnologias-utilizada)
+* [🔧 Funcionalidades](#-funcionalidades)
+* [🗄️ Database Modeling](#️-database-modeling)
+* [🔍 Fazendo Requisições](#-fazendo-requisições)
+* [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
+  * [📗 Documentação Swagger](#-documentação-swagger)
+  * [🚫 Observações](#-observações)
+
 ---
 
 ## ⚒️ Tecnologias utilizada
